@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JalilGafar
 - 👀 I’m interested in Web programming 
-- 🌱 I’m currently learning Angular 
+- 🌱 I’m currently learning Angular and Node.js 
 - 💞️ I’m looking to collaborate on Web applications project 
 - 📫 How to reach me : fondajalil@gmail.com 
 
